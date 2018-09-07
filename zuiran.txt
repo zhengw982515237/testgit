@@ -1,0 +1,8 @@
+zuiran@outlook.com 密码 zuiran
+gitube: zhengw982515237  zw336140
+oracle: 982515237@qq.com   Zhengw982515237
+服务器ip:138.128.205.126
+端口号:6023
+密码123234
+git username(用户名）:zhengwei
+git email(邮箱）: 982515237@qq.com
